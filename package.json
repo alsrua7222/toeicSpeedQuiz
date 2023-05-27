@@ -1,0 +1,22 @@
+{
+  "name": "toeicspeedquiz",
+  "version": "1.0.0",
+  "description": "매일 500개 단어 풀기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsrua7222/toeicSpeedQuiz.git"
+  },
+  "keywords": [
+    "toeic"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alsrua7222/toeicSpeedQuiz/issues"
+  },
+  "homepage": "https://github.com/alsrua7222/toeicSpeedQuiz#readme"
+}
